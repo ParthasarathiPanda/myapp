@@ -25,5 +25,4 @@ jobs:
         environment_name: App3-env
         version_label: v1.1
         region: ap-south-1
-        bucket_name: elasticbeanstalk-ap-south-1-118229867554
         deployment_package: deploy.zip
